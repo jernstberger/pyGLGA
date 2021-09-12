@@ -1,3 +1,6 @@
+#This piece of code performs a simple, straightforward application of the Python version of the GLGA project.
+#The Math::Random modul in Perl is required.
+
 import numpy as np
 from pyglga_lib import createPop, createPop2, gracefulCross, getGraph, objFcn, glga
 import time
