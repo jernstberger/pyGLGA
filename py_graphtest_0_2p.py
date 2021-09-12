@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+#This code is a parallelized version of the py_graphthest_0_1.py code.
+#Also, this code has (from lines 21-41) a commented graph (in the appropriate edge labels) for use with the project.
+
 import numpy as np
 from pyglga_lib import createPop, createPop2, gracefulCross, getGraph, objFcn, glga, graphSort
 import time
